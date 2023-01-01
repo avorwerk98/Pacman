@@ -5,3 +5,9 @@ Each pacman bounces off any wall that it hits.
 
 <img src="PacMan1.png">
 
+## Usage
+For fun!
+
+## Roadmap
+Make the pacmen image change direction when they bounce off the walls.
+

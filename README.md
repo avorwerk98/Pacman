@@ -12,5 +12,5 @@ For fun!
 Make the pacmen image change direction when they bounce off the walls.
 
 ## Link to Project
-<href="https://github.com/avorwerk98/Pacman.git">
+<a href="https://github.com/avorwerk98/Pacman.git">Pac Man Project</a>
 
